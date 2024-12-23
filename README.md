@@ -18,27 +18,7 @@ CSV: File format for storing movie data.
 Installation
 To get started with the Movie Management System, follow these steps:
 
-Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/yourusername/movie-management-system.git
-Navigate into the project directory:
-
-bash
-Copy code
-cd movie-management-system
-Install dependencies: Make sure you have Pandas installed. You can install it using pip:
-
-bash
-Copy code
-pip install pandas
-Usage
-Running the System: After installing the dependencies, run the main script to interact with the Movie Management System:
-
-bash
-Copy code
-python main.py
 Functionality:
 
 Add a Movie: To add a movie, use the add_movie function. This allows you to input the movie's title, genre(s), and rating.
@@ -99,15 +79,6 @@ python
 Copy code
 # Remove duplicates based on 'Title' and 'Genre'
 movie_system.remove_duplicates()
-Contributing
-Fork this repository.
-Create a new branch (git checkout -b feature-name).
-Make your changes.
-Commit your changes (git commit -am 'Add new feature').
-Push to your branch (git push origin feature-name).
-Create a new Pull Request.
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 Acknowledgments
 Pandas: The project heavily utilizes the Pandas library for data manipulation.
