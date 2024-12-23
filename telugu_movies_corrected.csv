@@ -1,0 +1,214 @@
+MovieID,Title,Genre,Rating
+1,Baahubali: The Beginning,"Action, Drama",4.0
+2,Baahubali: The Conclusion,"Action, Historical",4.1
+3,RRR,"Romance, Comedy",4.2
+4,Pushpa: The Rise,"Drama, Family",4.3
+5,Ala Vaikunthapurramuloo,"Action, Thriller",4.4
+6,Sarileru Neekevvaru,"Romance, Drama",4.0
+7,Arjun Reddy,"Fantasy, Adventure",4.1
+8,Geetha Govindam,"Political, Drama",4.2
+9,Eega,"Biographical, Drama",4.3
+10,Mahanati,Romance,4.4
+11,Sye Raa Narasimha Reddy,"Action, Comedy",4.0
+12,Jersey,"Action, Crime",4.1
+13,Fidaa,"Action, Drama",4.2
+14,Bharat Ane Nenu,"Action, Historical",4.3
+15,Uppena,"Romance, Comedy",4.4
+16,K.G.F: Chapter 1,"Drama, Family",4.0
+17,K.G.F: Chapter 2,"Action, Thriller",4.1
+18,Magadheera,"Romance, Drama",4.2
+19,Janatha Garage,"Fantasy, Adventure",4.3
+20,Athadu,"Political, Drama",4.4
+21,Pokiri,"Biographical, Drama",4.0
+22,Gabbar Singh,Romance,4.1
+23,Seethamma Vakitlo Sirimalle Chettu,"Action, Comedy",4.2
+24,Nenokkadine,"Action, Crime",4.3
+25,Temper,"Action, Drama",4.4
+26,Dhruva,"Action, Historical",4.0
+27,Businessman,"Romance, Comedy",4.1
+28,Oopiri,"Drama, Family",4.2
+29,Manam,"Action, Thriller",4.3
+30,Leader,"Romance, Drama",4.4
+31,Rangasthalam,"Fantasy, Adventure",4.0
+32,Devadasu,"Political, Drama",4.1
+33,Kick,"Biographical, Drama",4.2
+34,Simhadri,Romance,4.3
+35,Nuvvu Naaku Nachav,"Action, Comedy",4.4
+36,Varsham,"Action, Crime",4.0
+37,Aarya,"Action, Drama",4.1
+38,Happy Days,"Action, Historical",4.2
+39,Bommarillu,"Romance, Comedy",4.3
+40,Pelli Choopulu,"Drama, Family",4.4
+41,Kshanam,"Action, Thriller",4.0
+42,Evaru,"Romance, Drama",4.1
+43,Agent Sai Srinivasa Athreya,"Fantasy, Adventure",4.2
+44,Kanulu Kanulanu Dochayante,"Political, Drama",4.3
+45,Chi La Sow,"Biographical, Drama",4.4
+46,Tholi Prema,Romance,4.0
+47,100% Love,"Action, Comedy",4.1
+48,Ye Maaya Chesave,"Action, Crime",4.2
+49,Premam,"Action, Drama",4.3
+50,Oohalu Gusagusalade,"Action, Historical",4.4
+51,Majnu,"Romance, Comedy",4.0
+52,Chitralahari,"Drama, Family",4.1
+53,MCA,"Action, Thriller",4.2
+54,Shatamanam Bhavati,"Romance, Drama",4.3
+55,Mirchi,"Fantasy, Adventure",4.4
+56,Aditya 369,"Political, Drama",4.0
+57,Kshana Kshanam,"Biographical, Drama",4.1
+58,Gharana Mogudu,Romance,4.2
+59,Jagadeka Veerudu Athiloka Sundari,"Action, Comedy",4.3
+60,Sankarabharanam,"Action, Crime",4.4
+61,Maya Bazar,"Action, Drama",4.0
+62,Gundamma Katha,"Action, Historical",4.1
+63,Sagara Sangamam,"Romance, Comedy",4.2
+64,Swathi Muthyam,"Drama, Family",4.3
+65,Khaidi,"Action, Thriller",4.4
+66,Sita Ramam,"Romance, Drama",4.0
+67,Love Story,"Fantasy, Adventure",4.1
+68,Bangarraju,"Political, Drama",4.2
+69,Radhe Shyam,"Biographical, Drama",4.3
+70,Vakeel Saab,Romance,4.4
+71,Gaddalakonda Ganesh,"Action, Comedy",4.0
+72,Yevadu,"Action, Crime",4.1
+73,Nenu Sailaja,"Action, Drama",4.2
+74,Nenu Local,"Action, Historical",4.3
+75,DJ: Duvvada Jagannadham,"Romance, Comedy",4.4
+76,Baadshah,"Drama, Family",4.0
+77,Attarintiki Daredi,"Action, Thriller",4.1
+78,A Aa,"Romance, Drama",4.2
+79,Raja The Great,"Fantasy, Adventure",4.3
+80,Nannaku Prematho,"Political, Drama",4.4
+81,S/O Satyamurthy,"Biographical, Drama",4.0
+82,Bhale Bhale Magadivoy,Romance,4.1
+83,Ekkadiki Pothavu Chinnavada,"Action, Comedy",4.2
+84,Gautham Nanda,"Action, Crime",4.3
+85,Ismart Shankar,"Action, Drama",4.4
+86,Aravinda Sametha Veera Raghava,"Action, Historical",4.0
+87,Sye,"Romance, Comedy",4.1
+88,Chakram,"Drama, Family",4.2
+89,Desamuduru,"Action, Thriller",4.3
+90,Julayi,"Romance, Drama",4.4
+91,Son of India,"Fantasy, Adventure",4.0
+92,Savyasachi,"Political, Drama",4.1
+93,Manmadhudu,"Biographical, Drama",4.2
+94,Allari,Romance,4.3
+95,Style,"Action, Comedy",4.4
+96,Mass,"Action, Crime",4.0
+97,Sri Anjaneyam,"Action, Drama",4.1
+98,Vikramarkudu,"Action, Historical",4.2
+99,Don,"Romance, Comedy",4.3
+100,Bujjigadu,"Drama, Family",4.4
+101,King,"Action, Thriller",4.0
+102,Dhee,"Romance, Drama",4.1
+103,Kick 2,"Fantasy, Adventure",4.2
+104,Ready,"Political, Drama",4.3
+105,Seema Sastry,"Biographical, Drama",4.4
+106,Balupu,Romance,4.0
+107,Pandaga Chesko,"Action, Comedy",4.1
+108,Mahatma,"Action, Crime",4.2
+109,Andala Rakshasi,"Action, Drama",4.3
+110,Aithe,"Action, Historical",4.4
+111,Shiva,"Romance, Comedy",4.0
+112,Iddaru,"Drama, Family",4.1
+113,Anukokunda Oka Roju,"Action, Thriller",4.2
+114,Gamyam,"Romance, Drama",4.3
+115,Vedam,"Fantasy, Adventure",4.4
+116,Prasthanam,"Political, Drama",4.0
+117,Krishna Gaadi Veera Prema Gaadha,"Biographical, Drama",4.1
+118,Jyo Achyutananda,Romance,4.2
+119,Shatruvu,"Action, Comedy",4.3
+120,Gang Leader,"Action, Crime",4.4
+121,Bharatham,"Action, Drama",4.0
+122,Murari,"Action, Historical",4.1
+123,Rudraveena,"Romance, Comedy",4.2
+124,Amrutham Chandamama Lo,"Drama, Family",4.3
+125,Ee Nagaraniki Emaindi,"Action, Thriller",4.4
+126,Baahubali: The Beginning,"Romance, Drama",4.0
+127,Baahubali: The Conclusion,"Fantasy, Adventure",4.1
+128,RRR,"Political, Drama",4.2
+129,Pushpa: The Rise,"Biographical, Drama",4.3
+130,Ala Vaikunthapurramuloo,Romance,4.4
+131,Sarileru Neekevvaru,"Action, Comedy",4.0
+132,Arjun Reddy,"Action, Crime",4.1
+133,Geetha Govindam,"Action, Drama",4.2
+134,Eega,"Action, Historical",4.3
+135,Mahanati,"Romance, Comedy",4.4
+136,Sye Raa Narasimha Reddy,"Drama, Family",4.0
+137,Jersey,"Action, Thriller",4.1
+138,Fidaa,"Romance, Drama",4.2
+139,Bharat Ane Nenu,"Fantasy, Adventure",4.3
+140,Uppena,"Political, Drama",4.4
+141,K.G.F: Chapter 1,"Biographical, Drama",4.0
+142,K.G.F: Chapter 2,Romance,4.1
+143,Magadheera,"Action, Comedy",4.2
+144,Janatha Garage,"Action, Crime",4.3
+145,Athadu,"Action, Drama",4.4
+146,Pokiri,"Action, Historical",4.0
+147,Gabbar Singh,"Romance, Comedy",4.1
+148,Seethamma Vakitlo Sirimalle Chettu,"Drama, Family",4.2
+149,Nenokkadine,"Action, Thriller",4.3
+150,Temper,"Romance, Drama",4.4
+151,Dhruva,"Fantasy, Adventure",4.0
+152,Businessman,"Political, Drama",4.1
+153,Oopiri,"Biographical, Drama",4.2
+154,Manam,Romance,4.3
+155,Leader,"Action, Comedy",4.4
+156,Rangasthalam,"Action, Crime",4.0
+157,Devadasu,"Action, Drama",4.1
+158,Kick,"Action, Historical",4.2
+159,Simhadri,"Romance, Comedy",4.3
+160,Nuvvu Naaku Nachav,"Drama, Family",4.4
+161,Varsham,"Action, Thriller",4.0
+162,Aarya,"Romance, Drama",4.1
+163,Happy Days,"Fantasy, Adventure",4.2
+164,Bommarillu,"Political, Drama",4.3
+165,Pelli Choopulu,"Biographical, Drama",4.4
+166,Kshanam,Romance,4.0
+167,Evaru,"Action, Comedy",4.1
+168,Agent Sai Srinivasa Athreya,"Action, Crime",4.2
+169,Kanulu Kanulanu Dochayante,"Action, Drama",4.3
+170,Chi La Sow,"Action, Historical",4.4
+171,Tholi Prema,"Romance, Comedy",4.0
+172,100% Love,"Drama, Family",4.1
+173,Ye Maaya Chesave,"Action, Thriller",4.2
+174,Premam,"Romance, Drama",4.3
+175,Oohalu Gusagusalade,"Fantasy, Adventure",4.4
+176,Majnu,"Political, Drama",4.0
+177,Chitralahari,"Biographical, Drama",4.1
+178,MCA,Romance,4.2
+179,Shatamanam Bhavati,"Action, Comedy",4.3
+180,Mirchi,"Action, Crime",4.4
+181,Aditya 369,"Action, Drama",4.0
+182,Kshana Kshanam,"Action, Historical",4.1
+183,Gharana Mogudu,"Romance, Comedy",4.2
+184,Jagadeka Veerudu Athiloka Sundari,"Drama, Family",4.3
+185,Sankarabharanam,"Action, Thriller",4.4
+186,Maya Bazar,"Romance, Drama",4.0
+187,Gundamma Katha,"Fantasy, Adventure",4.1
+188,Sagara Sangamam,"Political, Drama",4.2
+189,Swathi Muthyam,"Biographical, Drama",4.3
+190,Khaidi,Romance,4.4
+191,Sita Ramam,"Action, Comedy",4.0
+192,Love Story,"Action, Crime",4.1
+193,Bangarraju,"Action, Drama",4.2
+194,Radhe Shyam,"Action, Historical",4.3
+195,Vakeel Saab,"Romance, Comedy",4.4
+196,Gaddalakonda Ganesh,"Drama, Family",4.0
+197,Yevadu,"Action, Thriller",4.1
+198,Nenu Sailaja,"Romance, Drama",4.2
+199,Nenu Local,"Fantasy, Adventure",4.3
+200,DJ: Duvvada Jagannadham,"Political, Drama",4.4
+201,Gopala Gopala,Drama,4.7
+202,Gopala Gopala,Drama,4.7
+203,Gopala Gopala,Capitative Drama,4.7
+204,Gopala Gopala,"Capitative,Drama",4.7
+205,Gopala Gopala,"Capitative,Drama",4.2
+206,Gopala Gopala,"Capitative,Drama",4.2
+207,Gopala Gopala,"Capitative,Drama",4.2
+208,Gopala Gopala,"Capitative,Drama",4.2
+209,Gopala Gopala,"Capitative,Drama",4.2
+210,Gopala Gopala,"Capitative,Drama",4.2
+211,Gopala Gopala,"Capitative,Drama",4.2
+212,Gopala Gopala,"Capitative,Drama",4.2
+213,Gopala Gopala,"Capitative,Drama",4.2
